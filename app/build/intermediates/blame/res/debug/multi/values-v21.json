@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 727
+                    }
+                }
+            }
+        ]
+    }
+]
