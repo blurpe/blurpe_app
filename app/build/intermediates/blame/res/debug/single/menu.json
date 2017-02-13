@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_log_in.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\menu\\menu_log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_register.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\menu\\menu_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_chat.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\menu\\menu_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

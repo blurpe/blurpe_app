@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_log_in.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\layout\\activity_log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_sender_message.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\layout\\layout_sender_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recipient_message.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\layout\\layout_recipient_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_profile.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\layout\\user_profile.xml"
+    }
+]

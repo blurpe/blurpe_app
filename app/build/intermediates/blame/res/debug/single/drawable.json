@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sender_rounded_corners.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\drawable\\sender_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recipient_rounded_corners.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\drawable\\recipient_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\headshot_7.jpg",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\drawable\\headshot_7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logo.png",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\drawable\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_send_white_24dp.png",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\drawable\\ic_send_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_button_corners.xml",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\drawable\\send_button_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\User\\Desktop\\BlurpeCHat\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    }
+]
